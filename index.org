@@ -1,0 +1,130 @@
+#+TITLE: EmberConf Recap
+#+AUTHOR: Todd Jordan
+#+EMAIL: @tddjordan
+#+REVEAL_ROOT: ./reveal/
+#+REVEAL_THEME: league
+#+OPTIONS: num:nil toc:1 reveal_history:t
+
+* Keynote
+
+** 2019
+
+- Module Unificatioon (PODs 2.0)
+- JQuery Optional
+- Simplified Testing
+- JS Modules
+- JS Getters
+- Decorators
+- JS Classes
+- Class Fields
+- TypeScript
+- Fragment Components
+- Tracked Properties
+
+** Ember in 2019
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/NhtpXs0ZtUc?start=1440" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Glimmer/Preact Experiment@LinkedIn
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/NhtpXs0ZtUc?start=1747" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** WASM!!!
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/NhtpXs0ZtUc?start=2178" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+* New Stuff
+
+- Living Animation: Animation Primitives
+- Who Moved My Cheese: New File System Layout
+- Next Generation of Testing
+- The Future of Data in Ember
+
+** Living Animation
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/4JofVQ3nGrw?start=870" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Living Animation (2)
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/4JofVQ3nGrw?start=1190" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Living Animation (3)
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/4JofVQ3nGrw?start=1985" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Living Animation (4)
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/4JofVQ3nGrw?start=2165" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** New File System Layout
+
+** Next Gen Testing
+
+** Future of Data in Ember
+
+* Practical
+
+- Mastering the Art of Forms
+- Deep Dive into Ember Events
+- Say More: Writing Test Helpers
+- Prying Open the Black Box: Debugging
+- Creating Fluid App-like Experiences: Mobile
+
+** Mastering the Art of Forms
+
+** Deep Dive on Ember Events
+
+** Say More (Writing Test Helpers)
+
+** Prying Open the Black Box (Debugging)
+
+** Creating fluid app-like experiences (Mobile)
+
+** Reuse, Recycle: One Teams Journey from Projects to Products
+
+libraries, documentation, evangelism
+
+#+BEGIN_NOTES
+Mix of Practical, Cultural, and Fun
+#+END_NOTES
+
+* Fun
+
+- Smartphone Symphony
+- Building a Memex
+
+** Smartphone Symphony
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/lEMG7ZayU48?start=806" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Smartphone Symphony (2)
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/lEMG7ZayU48?start=1193" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Building a Memex
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/OzcV-4hErBA?start=766" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Building a Memex (2)
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/OzcV-4hErBA?start=1208" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+** Building a Memex (3)
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/OzcV-4hErBA?start=1533" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+* Cultural
+
+- Ambitious For All: Accessibility in Ember
+- Everything They Didn't Tell You About the Ember Community
+- On Training and Hiring
+- Closing Keynote: Shining a Light
+
+** Accessibility in Ember
+
+** Everthing they didn't tell you about the Ember Community
+
+** On Training and Hiring
+
+** Closing Keynote: Shining A Light
+* Thanks!
