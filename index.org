@@ -4,6 +4,7 @@
 #+REVEAL_ROOT: ./reveal/
 #+REVEAL_THEME: league
 #+OPTIONS: num:nil toc:1 reveal_history:t
+#+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%a</h3><h3>%e</h3>"
 
 * Keynote
 
@@ -155,3 +156,7 @@ Mix of Practical, Cultural, and Fun
 #+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/wkfc0Mvg4QY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * Thanks!
+- Slide Source (org-reveal): https://github.com/toddjordan/triangle-ember-whats-up-emberconf
+- Blog: http://presentationtier.com
+- Twitter: [[https://twitter.com/tddjordan][@tddjordan]]
+- Ember Slack: todd.jordan https://ember-community-slackin.herokuapp.com/
