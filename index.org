@@ -58,9 +58,15 @@
 
 ** New File System Layout
 
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/M-ya4qmX4Nw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ** Next Gen Testing
 
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/8D-O4cSteRk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ** Future of Data in Ember
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/3_vanHCDTho?start=54" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 * Practical
 
@@ -72,19 +78,31 @@
 
 ** Mastering the Art of Forms
 
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/bepcUhMMc5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ** Deep Dive on Ember Events
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/G9hXjjHFJVs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ** Say More (Writing Test Helpers)
 
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/iAyRVPSOpy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ** Prying Open the Black Box (Debugging)
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/MAAouySLtqA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ** Creating fluid app-like experiences (Mobile)
 
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/d4Lq4DBUMOs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ** Reuse, Recycle: One Teams Journey from Projects to Products
 
-libraries, documentation, evangelism
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/HJO0hmCct4Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 #+BEGIN_NOTES
+libraries, documentation, evangelism
 Mix of Practical, Cultural, and Fun
 #+END_NOTES
 
@@ -122,9 +140,18 @@ Mix of Practical, Cultural, and Fun
 
 ** Accessibility in Ember
 
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/6ydNf7e5P00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ** Everthing they didn't tell you about the Ember Community
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/h3YtViXranw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ** On Training and Hiring
 
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/yHPjv61e4MY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ** Closing Keynote: Shining A Light
+
+#+REVEAL_HTML: <iframe data-autoplay width="854" height="480" src="https://www.youtube.com/embed/wkfc0Mvg4QY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 * Thanks!
